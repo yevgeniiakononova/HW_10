@@ -1,0 +1,254 @@
+    1  cd/Users/<Username>/Documents
+    2  cd/Users/<jesskononova>/Documents
+    3  ls
+    4  clear
+    5  touch file.txt
+    6  cat
+    7  \tdefaults
+    8  defaults help
+    9  ls
+   10  cd Documents 
+   11  ls
+   12  ls
+   13  cat Obsidian
+   14  git
+   15  git
+   16  \t\tgit
+   17  git -v
+   18  git --version
+   19  brew git install
+   20  brew install git
+   21  git
+   22  cd
+   23  ls
+   24  cd Desktop
+   25  ls
+   26  cd безіменна папка
+   27  cd безіменна\ папка
+   28  git config --global user.name "Yevgeniia"
+   29  git config --global user.name "Yevgeniia"
+   30  git config --global user.email "yevgeniia.kononova@gmail.com"
+   31  git clone https://github.com/yevgeniiakononova/HW_10.git
+   32  ls
+   33  cd HW_10
+   34  touch text_ignore.txt
+   35  ls
+   36  cd text_ignore.txt
+   37  cd .gitignore
+   38  echo text_ignore.txt >>.gitignore
+   39  gir status
+   40  git status
+   41  git rm --cached text_ignore.txt
+   42  git status
+   43  git add .gitignore
+   44  git status
+   45  git commit
+   46  git clone https://github.com/yevgeniiakononova/HW_10.git
+   47  ls
+   48  cd HW_10
+   49  touch text_ignore.txt
+   50  cd .gitignore
+   51  em .gitignoreem .gitignore
+   52  echo "text_ignore.txt" >> .gitignore
+   53  git status
+   54  git add
+   55  git add.
+   56  git add .
+   57  git status
+   58  git commit
+   59  ls
+   60  cd HW_10
+   61  git stasus
+   62  git status
+   63  git commit -m "Added text_ignore.txt to .gitignore"
+   64  rm -rf HW_10
+   65  rm -rf HW_10
+   66  ды
+   67  ls
+   68  rm -rf HW_10
+   69  git
+   70  rm HW_10
+   71  ls
+   72  cd \tLibrary
+   73  cd Library
+   74  cd Downloads
+   75  git clone https://github.com/yevgeniiakononova/HW_10.git
+   76  ls
+   77  cd Desktop
+   78  ls
+   79  cd безіменна\ папка
+   80  git clone https://github.com/yevgeniiakononova/HW_10.git
+   81  echo "text_ignore.txt" >> .gitignore
+   82  git add .gitignore
+   83  git commit -m "Add text_ignore.txt to .gitignore"
+   84  cd HW_10
+   85  git status
+   86  echo "text_ignore.txt" >> .gitignore
+   87  git add .gitignore\ngit commit -m "Add text_ignore.txt to .gitignore"
+   88  touch text_ignore.txt
+   89  git status
+   90  cat .gitignore
+   91  nano .gitignore
+   92  ls
+   93  cd Desktop
+   94  cd HW_10
+   95  rm -rf HW_10
+   96  ls
+   97  cd Desktop
+   98  ls
+   99  cd безіменна\ папкa
+  100  cd безіменна\ папка
+  101  clone https://github.com/yevgeniiakononova/HW_10.git
+  102  git clone https://github.com/yevgeniiakononova/HW_10.git
+  103  cd HW_10
+  104  touch text_ignore.txt
+  105  git add .gitignore
+  106  git commit -m "Add text_ignore.txt to .gitignore"
+  107  echo "text_ignore.txt" >> .gitignore
+  108  git status
+  109  echo text_ignore.txt >> .gitignore
+  110  git status
+  111  git add .
+  112  git status
+  113  git commit -m "Add text_ignore.txt to .gitignore"
+  114  git push
+  115  rm -rf HW_10
+  116  ls
+  117  cd Desktop
+  118  ls
+  119  cd безіменна\ папка
+  120  git clone https://github.com/yevgeniiakononova/HW_10.git
+  121  cd HW_10
+  122  touch text_ignore.txt\n
+  123  echo text_ignore.txt >> .gitignore\n
+  124  git add .gitignore\n
+  125  git status
+  126  echo" text_ignore.txt" >> .gitignore\n
+  127  echo "text_ignore.txt" >> .gitignore\n
+  128  git status
+  129  git commit -m "Add text_ignore.txt to .gitignore"\n
+  130  git push
+  131  cd Desctop
+  132  cd безімення\ папка
+  133  cd HW_10
+  134  git status
+  135  ls
+  136  ls
+  137  cd Desktop
+  138  ls
+  139  cd безіменна\ папка
+  140  cd HW_10
+  141  git status
+  142  touch main_test.txt
+  143  git add .
+  144  git status
+  145  git commit -m "Add main_test.txt"
+  146  git checkout -b develop
+  147  touch develop_test.txt
+  148  git add .
+  149  git commit -m "Add develop_test.txt"
+  150  echo "just a small change" >> develop_test.txt
+  151  git status
+  152  git add .
+  153  git commit -m "Update develop_test.txt"
+  154  git push origin develop
+  155  ls
+  156  cd Desktop
+  157  ls
+  158  cd безіменна\ папка
+  159  git clone https://github.com/yevgeniiakononova/HW_10.git
+  160  cd HW_10
+  161  touch text_ignore.txt\n
+  162  echo text_ignore.txt >> .gitignore\n
+  163  git add .gitignore\n
+  164  git commit -m "Add text_ignore.txt to .gitignore"\n
+  165  git status
+  166  ls
+  167  cd Desktop
+  168  cd безіменняʼ папка
+  169  cd безіменна\ папка
+  170  cd HW_10
+  171  git status
+  172  touch text_ignore.txt\n
+  173  echo "text_ignore.txt" >> .gitignore
+  174  git add .gitignore\n
+  175  gir status
+  176  git status
+  177  git commit -m "Add text_ignore.txt to .gitignore"\n
+  178  git push
+  179  ls
+  180  cd Desktop
+  181  ls
+  182  cd new
+  183  history -c && rm ~/.bash_history
+  184  git clean -f -d. 
+  185  clear
+  186  git config --global user.name "yevgeniia kononova"
+  187  git config --global user.email yevgeniia.kononova@gmail.com
+  188  git clone https://github.com/yevgeniiakononova/HW_10.git
+  189  cd HW_10
+  190  touch text_ignore.txt\n
+  191  echo text_ignore.txt >> .gitignore
+  192  git add .gitignore
+  193  git status
+  194  echo "text_ignore.txt" >> .gitignore
+  195  git status
+  196  git status
+  197  git commit -m "Add text_ignore.txt to .gitignore"\n
+  198  git push
+  199  git push
+  200  git push
+  201  git push 
+  202  git push 
+  203  git remote add origin https://github.com/yevgeniiakononova/HW_10.git
+  204  git push -u origin main
+  205  git push -u origin main
+  206  git log
+  207  echo «text_ignore.txt» >> .gitignore
+  208  git log
+  209  git remote add origin https://github.com/yevgeniiakononova/HW_10.git
+  210  git push -u origin main
+  211  git remote
+  212  cat .git/config
+  213  git pull
+  214  git status
+  215  git push
+  216  ssh-keygen
+  217  ssh-keygen -t rsa
+  218  cd /Users/jesskononova/.ssh/
+  219  ls
+  220  cat id_rsa.pub
+  221  cd new
+  222  ls
+  223  cd Desktop
+  224  cd new
+  225  git clone git@github.com:yevgeniiakononova/HW_10.git
+  226  git config --global user.name "Yevgeniia"
+  227  config --global user.email yevgeniia.kononova@gmail.com
+  228  cd HW_10
+  229  touch text_ignore.txt
+  230  echo "" >> .gitignore
+  231  echo text_ignore.txt >> .gitignore
+  232  cat .gitignore
+  233  git status
+  234   git add .gitignore
+  235  git commit -m "Add text_ignore.txt to .gitignore"
+  236  git push
+  237  touch main_test.txt
+  238  git add .
+  239  git status
+  240  git commit -m "Add main_test.txt"
+  241  git push
+  242  git checkout -b develop
+  243  touch develop_test.txt
+  244  git add .
+  245  git commit -m "Add develop_test.txt"
+  246  echo "how are you?)" >> develop_test.txt
+  247  git status
+  248  git add .
+  249  git commit -m "Update develop_test.txt"
+  250  git push
+  251  git push --set-upstream origin develop
+  252  git checkout main
+  253  git merge develop
+  254  git log
